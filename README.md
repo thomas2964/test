@@ -7,3 +7,5 @@ patch3
 AMY
 
 PIZZA
+
+CHINESE
