@@ -1,11 +1,3 @@
-# test2
+# README.md
 
-more changes on 
 
-patch3
-
-AMY
-
-PIZZA
-
-CHINESE
