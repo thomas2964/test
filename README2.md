@@ -1,9 +1,1 @@
-This
- 
- is README2
- 
- EMILY
- 
- PIZZA
- 
- MELLON
+README2.md
